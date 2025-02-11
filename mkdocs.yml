@@ -2,7 +2,9 @@ site_name: 自由軟體公民團體運動典藏與推廣計畫
 nav:
   - Home: index.md
   - 人物側寫:
+    - 洪朝貴教授: interviews/ckhung.md
     - OSSACC 蔡凱如: interviews/kairu.md
+    - Fedora 曾政嘉: interviews/zerngjia.md
 
 theme:
   name: readthedocs
